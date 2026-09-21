@@ -1,218 +1,113 @@
 <div align="center">
 
-# 👋 Hi, I'm Shamyuktha M
+# Shamyuktha M
+<img src="https://pin.it/wMfXenzcu" />
 
-### 💻 Java Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Learner
+### Building my way into Full Stack Development 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications+%F0%9F%9A%80;Java+%7C+React+%7C+Spring+Boot+%7C+AI;Exploring+Cloud+%26+Modern+Web+Development+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Working+Products+%F0%9F%92%A1" />
-
-<br>
-
-<a href="https://github.com/SHAMYUKTHAM">
-<img src="https://img.shields.io/badge/GitHub-SHAMYUKTHAM-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/shamyuktha-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:shamyuktham6006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SHAMYUKTHAM&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+Java • React • Spring Boot • AI • Cloud
+[GitHub](https://github.com/SHAMYUKTHAM) ·
+[LinkedIn](https://www.linkedin.com/in/shamyuktha-m) ·
+[Email](mailto:shamyuktham6006@gmail.com)
 
 </div>
-## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** passionate about building
-practical applications using modern technologies.
+## About me
 
-I enjoy turning ideas into working applications — from designing
-user interfaces and developing backend APIs to integrating AI services
-and exploring cloud technologies.
+I'm a Computer Science Engineering student interested in
+Java full-stack development, AI and cloud technologies.
+Most of what I learn comes from building projects and trying things out
+on my own. I'm currently working with Java, React, Spring Boot and REST
+APIs, while also exploring how AI can be used in applications.
 
-- 💻 Focused on **Java Full Stack Development**
-- 🤖 Exploring **AI-powered applications**
-- ☁️ Learning **Cloud Computing & Deployment**
-- 🌐 Building applications with **React & Spring Boot**
-- 🧠 Improving my **Java, DSA & Problem-Solving** skills
-- 🎨 Interested in **UI/UX & Web Development**
-- 🚀 Passionate about learning through **real-world projects**
+Some things I'm currently working on:
 
-> 💡 I believe the best way to learn technology is to build with it.
-> ## 🛠️ Tech Stack
+- Building my EduAI student chatbot
+- Learning Spring Boot and backend development
+- Exploring AI-based application ideas
+- Improving my Java and problem-solving skills
+- Learning more about cloud and deployment
 
-### 💻 Languages & Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
-</p>
-
-### ⚙️ Backend & Database
+I'm still learning, but I enjoy taking an idea and seeing how far I can
+build it into an actual working project.
+## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,mysql,git,github,vscode,figma" />
 </p>
 
-### 🔧 Tools & Design
+**Currently learning:** Spring Boot, Cloud Computing and AI application development.
+## Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+### EduAI
 
-### ☁️ Exploring
+An AI-powered student learning chatbot I'm currently building.
 
-<p align="left">
+The idea is to create a simple chatbot where students can ask questions
+and get explanations in an easy-to-understand way.
 
-<img src="https://skillicons.dev/icons?i=aws,docker" />
+**Built with:** Java, Spring Boot, React, REST APIs and AI API
 
-</p>
+[View repository →](https://github.com/SHAMYUKTHAM/Eduai-chatbot)
 
-### 🧠 Core Concepts
 
-`OOP` • `DBMS` • `REST APIs` • `SDLC` • `Responsive Web Design` • `Problem Solving`
-## 🚀 Featured Projects
+### CloudForge AI
 
-<table>
-<tr>
-<td width="50%">
+One of my ongoing project ideas.
 
-### 🤖 EduAI
+CloudForge AI is an AI-assisted platform that helps turn a project idea
+into a more structured development plan — including architecture,
+database design, APIs and cloud deployment suggestions.
 
-**AI-Powered Student Learning Chatbot**
+I'm currently exploring and developing the idea.
 
-A student-focused AI chatbot designed to provide
-simple, educational and focused responses.
+**Exploring:** React, Java, Spring Boot, AI and Cloud
 
-**Tech Stack**
 
-`Java` `Spring Boot` `React` `AI API` `REST APIs`
+### Alumni Portal
 
-**Highlights**
+A college-alumni platform focused on communication and networking.
 
-- 🤖 AI-powered learning assistant
-- 🎓 Student-focused conversations
-- 💬 Interactive chat interface
-- 🔗 REST API integration
-- 📱 Responsive React frontend
+The main idea is to create a space that helps bridge the college and
+its alumni through updates, interaction and information sharing.
 
-<a href="https://github.com/SHAMYUKTHAM/Eduai-chatbot">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
-</a>
+**Built with:** React, JavaScript, HTML, CSS and MySQL
 
-</td>
+[View repository →](https://github.com/SHAMYUKTHAM/Alumni-Portal)
 
-<td width="50%">
 
-### ☁️ CloudForge AI
+### Gamified Learning Platform
 
-**AI-Assisted Project Development Platform**
+A UI/UX project focused on making learning more interactive for students.
 
-An AI-powered concept designed to transform a project
-idea into a structured technical development blueprint.
+The platform uses ideas such as badges, rewards, leaderboards and
+progress tracking to make the learning experience more engaging.
 
-**Exploring**
+**Tools:** Figma
 
-`React` `Java` `Spring Boot` `AI` `Cloud`
-
-**Highlights**
-
-- 💡 Project idea analysis
-- 🏗️ Architecture planning
-- 🗄️ Database design
-- 🔌 API planning
-- ☁️ Cloud & deployment planning
-- 🤖 Project-specific AI assistant
-
-🚧 **Currently Building**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Alumni Portal
-
-**College–Alumni Networking Platform**
-
-A platform designed to bridge the college and alumni
-through communication, networking and engagement.
-
-**Tech Stack**
-
-`React` `JavaScript` `HTML` `CSS` `MySQL`
-
-**Highlights**
-
-- 🎓 College–alumni communication
-- 💬 Networking & interaction
-- 📢 Information sharing
-- 🎨 Responsive UI
-- 🧩 User-focused design
-
-<a href="https://github.com/SHAMYUKTHAM/Alumni-Portal">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎮 Gamified Learning Platform
-
-**Interactive Student Learning Experience**
-
-A learning platform designed to make student learning
-more interactive, engaging and enjoyable.
-
-**Focus**
-
-`UI/UX` `Figma` `Learning Design`
-
-**Highlights**
-
-- 🎯 Gamified learning
-- 🏆 Badges & rewards
-- 📊 Progress tracking
-- 🥇 Leaderboards
-- 🎨 Interactive prototypes
-
-<a href="https://github.com/SHAMYUKTHAM/gamified-learning-platform">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-</table>
-## 📊 GitHub Analytics
+[View repository →](https://github.com/SHAMYUKTHAM/gamified-learning-platform)
+## GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
-
-<br>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SHAMYUKTHAM&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SHAMYUKTHAM&hide_border=true&theme=transparent" />
 
 </div>
-## 🐍 My Contribution Journey
+## Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
