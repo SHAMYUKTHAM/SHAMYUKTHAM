@@ -1,193 +1,246 @@
-<div align="center">👋 Hey, I'm Shamyuktha M
+👋 Hi, I'm Shamyuktha M
 
-"Java" • "Full Stack" • "Cloud" • "AI"
+💻 Aspiring Java Full Stack Developer | ☁️ Cloud Computing | 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Experimenting;Java+Full+Stack+Developer+in+Progress;Cloud+%26+AI+Explorer;Turning+Ideas+into+Working+Projects+🚀"/></div>---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+%7C+Aspiring;Cloud+Computing+Enthusiast;AI+%26+Web+Development+Learner;Always+Learning+%26+Building+🚀" />
+</p>---
 
-🟣 CURRENTLY WORKING ON
+👩‍💻 About Me
 
-🚀 Project / Goal| 🔧 What I'm Working On| 🛠️ Tech| 📊 Status
-🤖 EduAI| Connecting frontend → Java backend → AI API| Java • Spring Boot • React| 🟡 Building
-☁️ CloudForge AI| AI project architecture & technical blueprint system| React • Java • AI • Cloud| 🟡 Exploring
-🎓 Alumni Portal| Improving alumni interaction features| React • Node.js • Express| 🟢 Active
-🎮 Gamified Learning| Interactive learning experience| JavaScript • UI/UX| 🟢 Project
-🧠 Java + DSA| Practicing coding problems & assessments| Java| 🔥 Daily
-☁️ Cloud Computing| Strengthening cloud fundamentals| AWS • Cloud| 🟡 Learning
-🌱 Spring Boot| Learning backend development| Java • Spring Boot| 🟡 Learning
+I'm a final-year B.E. Computer Science and Engineering student at K.S.R. College of Engineering, Tiruchengode.
 
----
+I'm interested in building practical applications using Java, React, JavaScript, SQL, Cloud Computing and AI.
 
-🟢 MY DEV STATUS
+I enjoy learning new technologies, solving programming problems, participating in technical events, and turning ideas into working projects.
 
-Category| Current Status
-💻 Main Language| Java
-🌐 Frontend| React + JavaScript
-⚙️ Backend| Java + Learning Spring Boot
-🗄️ Database| MySQL
-☁️ Cloud| AWS / Cloud Computing
-🤖 AI| AI Application Development
-🧠 DSA| Actively Practicing
-🎯 Career Goal| Java Full Stack Developer
-🔍 Looking For| Internships & Entry-Level Opportunities
+- 🎓 B.E. Computer Science & Engineering
+- 💻 Aspiring Java Full Stack Developer
+- ☁️ Interested in Cloud Computing
+- 🤖 Exploring AI-powered applications
+- 🌱 Currently learning Spring Boot
+- 🧠 Practicing Java & Data Structures
+- 🚀 Interested in Full Stack Development
+- 🏆 Hackathon & Ideathon participant
+- 📚 Always learning and building
 
 ---
 
-🧩 MY TECH STACK
+🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center"><b>LANGUAGES</b></td>
-<td align="center"><b>FRONTEND</b></td>
-<td align="center"><b>DATABASE</b></td>
-<td align="center"><b>TOOLS</b></td>
-</tr><tr>
-<td>☕ Java
-🟨 JavaScript
-🌐 HTML
-🎨 CSS
+💻 Languages & Web
 
-</td><td>⚛️ React
-🎨 UI/UX
-🖥️ Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
+</p>🗄️ Database
 
-</td><td>🐬 MySQL
-🗄️ SQL
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>☁️ Cloud & Development
 
-</td><td>🔧 Git
-🐙 GitHub
-💻 VS Code
-🎨 Figma
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase" />
+</p>🧰 Tools
 
-</td>
-</tr>
-</table>---
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>🌱 Currently Learning
 
-🚀 PROJECT BOARD
-
-Project| Description| Stack| Status
-🤖 EduAI| AI-powered student learning chatbot| Java • Spring Boot • React| 🟡
-☁️ CloudForge AI| AI-powered project planning & architecture platform| React • Java • AI • Cloud| 🟡
-🎓 K.S.R Alumni Portal| Platform bridging college & alumni| React • Node • Express| 🟢
-🎮 Gamified Learning Platform| Gamified education for Grades 6–12| JavaScript • UI/UX| 🟢
-🔐 Password Generator| Web-based password generator| HTML • CSS • JS| 🟢
-🔢 Number Guessing Game| Java console game| Java| ✅
-
-Legend:
-🟢 Active / Completed
-🟡 In Progress
-🔥 Daily Practice
-🔵 Exploring
-⬜ Planned
+- Spring Boot
+- REST API Development
+- Backend Development
+- Cloud-based Applications
+- AI Application Development
 
 ---
 
-☁️ CLOUD FORGE AI
+🚀 Featured Projects
 
-"An idea I'm turning into a project"
+🤖 EduAI — AI Powered Educational Chatbot
 
-                    💡 PROJECT IDEA
-                          │
-                          ▼
-                   🤖 AI ANALYSIS
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-        🏗️ ARCHITECTURE  🗄️ DATABASE  🔌 APIs
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                    ☁️ CLOUD PLAN
-                          │
-                          ▼
-                  🚀 BUILD ROADMAP
+An AI-powered educational chatbot designed to help students learn through simple, conversational explanations.
 
-Goal: Help students and developers transform a simple project idea into a structured technical plan.
+Tech: Java • Spring Boot • React • AI API
 
-Status: 🟡 "Concept → Development"
+🔗 Repository:
+https://github.com/SHAMYUKTHAM/Eduai-chatbot
 
 ---
 
-📚 CURRENT LEARNING BOARD
+🎓 K.S.R. Alumni Portal
 
-Technology| Why I'm Learning It| Progress
-☕ Java| Core programming & backend| 🟢🟢🟢🟢⚪
-🌐 React| Frontend development| 🟢🟢🟢🟢⚪
-🗄️ SQL| Database development| 🟢🟢🟢🟢⚪
-🍃 Spring Boot| Java backend development| 🟢🟢⚪⚪⚪
-☁️ AWS| Cloud computing| 🟢🟢🟢⚪⚪
-🤖 AI APIs| AI-powered applications| 🟢🟢🟢⚪⚪
-🧠 DSA| Problem solving| 🟢🟢🟢⚪⚪
+A web platform designed to bridge the college and its alumni, providing a centralized platform for alumni interaction and communication.
+
+Tech: React • TypeScript • Node.js • Express
+
+🔗 Repository:
+https://github.com/SHAMYUKTHAM/Alumni-Portal
 
 ---
 
-🎯 2026 ROADMAP
+🎮 Gamified Learning Platform
 
-Goal| Status
-Build Java projects| ✅
-Practice DSA| 🔥
-Learn Spring Boot| 🟡
-Build Full Stack applications| 🟡
-Improve Cloud skills| 🟡
-Build AI-powered applications| 🟡
-Deploy projects to Cloud| ⬜
-Contribute to Open Source| ⬜
-Become Job Ready| 🚀
+An interactive learning platform designed to make learning more engaging for students from Grades 6–12 through gamification.
+
+Tech: JavaScript • Web Development • UI/UX
+
+🔗 Repository:
+https://github.com/SHAMYUKTHAM/gamified-learning-platform
 
 ---
 
-🏆 ACHIEVEMENT WALL
+🔐 Password Generator
 
-🏅 Achievement| Year
-🥉 3rd Prize — Prompt Creation & Ideathon| 2026
-🥈 2nd Prize — Treasure Hunt| 2025
-💡 TNWISE Hackathon Participant| 2025
-🧩 LeetCode 30-Day Challenge| —
-🎨 Joint Secretary — Fusion Art Club| —
-🎤 PARADOX — 250+ Participants| —
+A simple web-based password generator project created to practice frontend development and user interaction.
 
----
+Tech: HTML • CSS • JavaScript
 
-💼 EXPERIENCE
-
-Organization| Role| Year
-☕ Rejola IT Services| Java Development Intern| 2024
-📊 Myeconics| Data Analytics Intern| 2025
-☁️ Thiran360AI| Cloud Computing Intern| 2025
+🔗 Repository:
+https://github.com/SHAMYUKTHAM/Password-Generator
 
 ---
 
-📊 GITHUB
+☁️ CloudForge AI
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&hide_border=true&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&hide_border=true&theme=transparent"/></div>---
+An AI-powered project planning concept designed to help students and developers transform project ideas into technical blueprints, architecture and development plans.
 
-🧠 CURRENT MINDSET
-
-┌──────────────────────────────────────────┐
-│                                          │
-│   💡 Learn something                      │
-│             ↓                            │
-│   🛠️ Build something                     │
-│             ↓                            │
-│   🐛 Break something                     │
-│             ↓                            │
-│   🔧 Fix it                              │
-│             ↓                            │
-│   🚀 Ship it                             │
-│             ↓                            │
-│   📚 Learn again                         │
-│                                          │
-└──────────────────────────────────────────┘
+Focus: AI • Full Stack Development • Cloud Computing • Software Architecture
 
 ---
 
-🤝 LET'S CONNECT
+💼 Internship Experience
 
-<div align="center"><a href="https://github.com/SHAMYUKTHAM">
+☕ Java Development — Rejola IT Services
+
+2024
+
+- Practiced Java programming fundamentals
+- Worked on programming logic and problem solving
+- Developed a console-based Number Guessing Game
+
+📊 Data Analytics — Myeconics
+
+2025
+
+- Worked with data cleaning
+- Explored data analysis workflows
+- Gained practical exposure to datasets and analytics
+
+☁️ Cloud Computing — Thiran360AI
+
+2025
+
+- Explored cloud computing fundamentals
+- Learned concepts related to cloud services
+- Gained exposure to cloud-based technologies
+
+---
+
+🎓 Learning & Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- ☁️ NPTEL — Cloud Computing
+- 📡 NPTEL — Industrial IoT 4.0
+- 🎓 ICT Academy — Learnathon
+- 🤖 Generative AI
+- 🧠 TensorFlow & Machine Learning
+- 🗄️ MongoDB
+- ⚙️ UiPath
+- ☁️ Cloud Foundations
+
+---
+
+🏆 Achievements
+
+🥉 3rd Prize — Prompt Creation & Ideathon
+RVS Technical Campus, Coimbatore — 2026
+
+🥈 2nd Prize — Treasure Hunt
+RVS Technical Campus, Coimbatore — 2025
+
+💡 TNWISE Hackathon 2025
+Participated at Sona College of Technology, Salem & Karpagam College of Engineering, Coimbatore
+
+🧩 LeetCode 30-Day Challenge
+Completed a 30-day coding challenge
+
+🎨 Joint Secretary — Fusion Art Club
+
+🎤 PARADOX Event
+Contributed to an event with 250+ participants
+
+🏫 School Disciplinary Leader
+Grades 6–12
+
+---
+
+💡 What I'm Currently Working On
+
+☕ Java
+ ├── Problem Solving
+ ├── Data Structures & Algorithms
+ └── Backend Development
+
+🌐 Full Stack
+ ├── React
+ ├── JavaScript
+ ├── Java
+ ├── SQL / MySQL
+ └── Spring Boot
+
+☁️ Cloud & AI
+ ├── Cloud Computing
+ ├── AI Applications
+ └── AI-powered Development
+
+---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHAMYUKTHAM&theme=tokyonight&hide_border=true" />
+</p>---
+
+🧠 My Development Journey
+
+Learn
+  ↓
+Build Projects
+  ↓
+Practice DSA
+  ↓
+Participate in Hackathons
+  ↓
+Learn New Technologies
+  ↓
+Build Better Projects 🚀
+
+---
+
+📌 Interests
+
+- 💻 Software Development
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
+- 🧠 Problem Solving
+- 🌍 Web Development
+
+---
+
+🤝 Connect With Me
+
+<p align="center"><a href="https://github.com/SHAMYUKTHAM">
 <img src="https://img.shields.io/badge/GitHub-SHAMYUKTHAM-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/shamyuktha-m/">
 <img src="https://img.shields.io/badge/LinkedIn-Shamyuktha%20M-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a><br><br>
+</a></p>---
 
-☕ Code • ☁️ Cloud • 🤖 AI • 🚀 Build
+<p align="center">🚀 "Learn. Build. Solve. Grow."
 
-</div>
+⭐ Thanks for visiting my profile!
+
+</p>
