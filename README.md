@@ -141,13 +141,10 @@ I am a final-year Computer Science Engineering student passionate about crafting
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHAMYUKTHAM&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAMYUKTHAM&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<img src="https://ghchart.rshah.org/216e39/SHAMYUKTHAM" alt="SHAMYUKTHAM's GitHub Green Contribution Chart" width="100%" />
 
 </div>
+
 
 ---
 
