@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Shamyuktha!
+#  Hi, I'm Shamyuktha
 
 ### 🎓 Final-Year CSE |  Java Full Stack Craftsman |  Cloud & AI Explorer
 
@@ -17,7 +17,7 @@
 I am a final-year Computer Science Engineering student passionate about crafting end-to-end web applications and scalable backends. Rather than just following tutorials, I learn by building functional systems from the ground up—solving real problems using **Java**, **Spring Boot**, and **React**.
 
 -  **Current Focus:** Developing EduAI to bring conversational AI into technical education.
--  **Architecting:** [CloudForge AI](#) — an automated scaffolding platform for full-stack system designs.
+-  **Architecting:** CloudForge AI — an automated scaffolding platform for full-stack system designs.
 -  **Growth Areas:** Distributed systems, scalable REST APIs, microservices, and containerized cloud deployments.
 -  **Aspirations:** Stepping into full-stack and cloud engineering environments where I can own features end-to-end.
 
@@ -139,12 +139,12 @@ I am a final-year Computer Science Engineering student passionate about crafting
 
 ## Contribution Path
 
+
 <div align="center">
 
-<img src="https://ghchart.rshah.org/216e39/SHAMYUKTHAM" alt="SHAMYUKTHAM's GitHub Green Contribution Chart" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAMYUKTHAM&theme=github_dark" width="100%" alt="Activity Overview" />
 
 </div>
-
 
 ---
 
