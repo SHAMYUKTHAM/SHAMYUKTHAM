@@ -1,30 +1,29 @@
 <div align="center">
 
-#  Hi, I'm Shamyuktha M
+#  Hi, I'm Shamyuktha!
 
 ### 🎓 Final-Year CSE |  Java Full Stack Craftsman |  Cloud & AI Explorer
 
 <p align="center">
   <em>Engineering responsive client experiences, architecting scalable backend systems, and experimenting with applied AI.</em>
+</p>
+
+</div>
 
 ---
 
-## 📌 About Me
+##  About Me
 
 I am a final-year Computer Science Engineering student passionate about crafting end-to-end web applications and scalable backends. Rather than just following tutorials, I learn by building functional systems from the ground up—solving real problems using **Java**, **Spring Boot**, and **React**.
-Some things I'm currently working on:
 
-- Building my EduAI student chatbot
-- Learning Spring Boot and backend development
-- Exploring AI-based application ideas
-- Improving my Java and problem-solving skills
-- Learning more about cloud and deployment
+-  **Current Focus:** Developing EduAI to bring conversational AI into technical education.
+-  **Architecting:** [CloudForge AI](#) — an automated scaffolding platform for full-stack system designs.
+-  **Growth Areas:** Distributed systems, scalable REST APIs, microservices, and containerized cloud deployments.
+-  **Aspirations:** Stepping into full-stack and cloud engineering environments where I can own features end-to-end.
 
-I'm still learning, but I enjoy taking an idea and seeing how far I can
-build it into an actual working project.
 ---
 
-## 🧰 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -49,7 +48,7 @@ build it into an actual working project.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 EduAI Chatbot</h3>
+      <h3 align="center"> EduAI Chatbot</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -66,7 +65,7 @@ build it into an actual working project.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ CloudForge AI</h3>
+      <h3 align="center"> CloudForge AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Architecture-0052CC?style=flat-square" />
         <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square" />
@@ -79,13 +78,13 @@ build it into an actual working project.
         <li>Built for rapid prototyping and architecture mapping</li>
       </ul>
       <p align="center">
-        <em>🚀 Currently in active development</em>
+        <em> Currently in active development</em>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Alumni Portal</h3>
+      <h3 align="center"> Alumni Portal</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -102,7 +101,7 @@ build it into an actual working project.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Gamified Learning</h3>
+      <h3 align="center"> Gamified Learning</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/UI%2FUX-EA4C89?style=flat-square" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -123,7 +122,7 @@ build it into an actual working project.
 
 ---
 
-## 📊 Activity & Analytics
+## Activity & Analytics
 
 <div align="center">
 
@@ -138,25 +137,21 @@ build it into an actual working project.
 
 ---
 
-## 🟩 Contribution Path
+## Contribution Path
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAMYUKTHAM&theme=github-compact&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=SHAMYUKTHAM&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAMYUKTHAM&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 Whether you want to discuss full-stack engineering, collaborate on an open-source tool, or explore career opportunities, my inbox is always open.
 
