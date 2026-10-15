@@ -1,189 +1,82 @@
-<div align="center">
+<div align="center"> <img src="./assets/led-banner.svg" alt="SHAMYUKTHA M" width="100%"/> <img src="./assets/profile-card.svg" alt="shamyuktha@fullstack profile card" width="100%"/> <img src="https://komarev.com/ghpvc/?username=SHAMYUKTHAM&label=PROFILE+VIEWS&color=3ddc97&style=for-the-badge" alt="Profile views"/> <img src="https://img.shields.io/github/followers/SHAMYUKTHAM?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white" alt="Followers"/> <br/>
 
-<img src="./assets/bird-banner.svg" alt="Shamyuktha M — Java Full Stack Developer" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3DDC97&center=true&vCenter=true&width=640&lines=Building+full-stack+systems+from+the+ground+up;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Experimenting+with+applied+AI+%26+cloud;Looking+to+own+features+end-to-end" alt="Typing animation" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamyuktha-m)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamyuktham6006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAMYUKTHAM)
-![Profile Views](https://komarev.com/ghpvc/?username=SHAMYUKTHAM&label=Profile%20Views&color=3ddc97&style=for-the-badge)
+<a href="https://www.linkedin.com/in/shamyuktha-m"><img src="https://img.shields.io/badge/-LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/></a> <a href="mailto:shamyuktham6006@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/></a> <a href="https://github.com/SHAMYUKTHAM"><img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/></a>
 
 </div>
+About Me
+<div align="center"> <img src="./assets/about-terminal.svg" alt="About Me" width="100%"/> </div>
+ini
+$ cat .profile
 
----
+NAME        = Shamyuktha M
+ROLE        = Final-Year CSE | Java Full-Stack Developer
+EDUCATION   = B.E. Computer Science and Engineering (Final Year)
+FOCUS       = Spring Boot, React, REST APIs, Cloud and Applied AI
+BUILDING    = EduAI Chatbot, CloudForge AI
+TARGETING   = Full-stack and cloud engineering roles
+STATUS      = Open to opportunities
+Current Focus
+yaml
+working_on:
+  - EduAI Chatbot      # conversational AI tutor for technical concepts
+  - CloudForge AI      # AI copilot for architecture blueprints and scaffolding
 
-## 👩‍💻 About Me
+learning:
+  - Distributed systems
+  - Microservices architecture
+  - Scalable REST APIs
+  - Containerized cloud deployments
 
-I'm a final-year Computer Science Engineering student who learns by **building real systems**, not just following tutorials. I design end-to-end web applications with **Java**, **Spring Boot** and **React**, and I'm increasingly drawn to cloud-native architecture and applied AI.
-
-| | |
-| :--- | :--- |
-| 🔭 **Currently building** | **EduAI**: a conversational tutor for technical education |
-| 🏗️ **Architecting** | **CloudForge AI**: automated scaffolding for full-stack system designs |
-| 🌱 **Growing in** | Distributed systems · Scalable REST APIs · Microservices · Containerized deployments |
-| 🎯 **Aspiring to** | Full-stack and cloud engineering roles where I can own features end-to-end |
-
----
-
-## 🧰 Tech Arsenal
-
+open_to:
+  - Full-stack developer roles
+  - Cloud engineering roles
+  - Internships and graduate opportunities
+Tech Stack
 <div align="center">
 
-| Domain | Stack & Tooling |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Focus Areas** | Full-Stack Architecture · AI Integrations · Cloud Foundations |
+<b>[ Languages ]</b><br/> <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql&perline=8" alt="Languages"/>
+
+<b>[ Frontend ]</b><br/> <img src="https://skillicons.dev/icons?i=react,html,css,js,figma&perline=8" alt="Frontend"/>
+
+<b>[ Backend and APIs ]</b><br/> <img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Backend"/>
+
+<b>[ Database ]</b><br/> <img src="https://skillicons.dev/icons?i=mysql&perline=8" alt="Database"/>
+
+<b>[ Tools ]</b><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" alt="Tools"/>
 
 </div>
+Core Competencies
+Domain	Details
+Backend Development	Java, Spring Boot, RESTful API design
+Frontend	React, JavaScript, HTML5, CSS3
+Databases	MySQL, SQL, relational data modelling
+AI Integration	Conversational AI, prompt engineering, AI API integration
+Cloud and Architecture	System design scaffolding, deployment planning, microservices (learning)
+Product Design	Figma prototyping, design systems, gamification UX
+Developer Tools	Git, GitHub, VS Code
+Featured Projects
+EduAI Chatbot
+<table> <tr> <td width="170" align="center"><img src="./assets/icon-eduai.svg" width="120" alt="EduAI"/></td> <td> <b>Conversational AI tutor</b> that breaks difficult technical concepts into structured, bite-sized lessons in real time.<br/><br/> <b>Stack:</b> Java, Spring Boot, React, AI API<br/> <b>Highlights:</b> interactive chat UI, REST backend, prompt engineering for simplified, level-aware explanations.<br/><br/> <a href="https://github.com/SHAMYUKTHAM/Eduai-chatbot"><img src="https://img.shields.io/badge/GITHUB-REPOSITORY-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Repository"/></a> </td> </tr> </table>
+CloudForge AI
+<table> <tr> <td width="170" align="center"><img src="./assets/icon-cloudforge.svg" width="120" alt="CloudForge AI"/></td> <td> <b>AI developer copilot</b> that turns abstract software requirements into architecture blueprints, DB schemas and deployment paths.<br/><br/> <b>Stack:</b> Spring Boot, Cloud, System Design<br/> <b>Highlights:</b> automated entity and endpoint scaffolding, cloud deployment and infrastructure recommendations.<br/><br/> <img src="https://img.shields.io/badge/STATUS-IN_ACTIVE_DEVELOPMENT-white?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" alt="In development"/> </td> </tr> </table>
+Alumni Portal
+<table> <tr> <td width="170" align="center"><img src="./assets/icon-alumni.svg" width="120" alt="Alumni Portal"/></td> <td> <b>Networking hub</b> connecting students and graduates for industry updates, mentorship requests and career opportunities.<br/><br/> <b>Stack:</b> React, JavaScript, MySQL<br/> <b>Highlights:</b> relational data modelling, dynamic feed, searchable alumni directory, mobile-first design.<br/><br/> <a href="https://github.com/SHAMYUKTHAM/Alumni-Portal"><img src="https://img.shields.io/badge/GITHUB-REPOSITORY-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Repository"/></a> </td> </tr> </table>
+Gamified Learning
+<table> <tr> <td width="170" align="center"><img src="./assets/icon-gamified.svg" width="120" alt="Gamified Learning"/></td> <td> <b>Product-design study</b> on how gamification improves user retention and course completion in online education.<br/><br/> <b>Stack:</b> Figma, UI/UX, EdTech<br/> <b>Highlights:</b> high-fidelity prototypes, leaderboards, achievement badges, accessible user flows.<br/><br/> <a href="https://github.com/SHAMYUKTHAM/gamified-learning-platform"><img src="https://img.shields.io/badge/GITHUB-PROTOTYPE-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Prototype"/></a> </td> </tr> </table>
+<!-- ## Coding Profiles Remove this comment block and fill in your usernames to show coding-platform badges. <div align="center"> <a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HACKERRANK-white?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=black"/></a> <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LEETCODE-white?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black"/></a> </div> --- -->
+GitHub Statistics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&text_bold=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/> <img height="170" src="https://streak-stats.demolab.com?user=SHAMYUKTHAM&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e" alt="Streak"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top languages"/> </div>
+Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAMYUKTHAM&bg_color=000000&color=ffffff&line=3ddc97&point=ffffff&area=true&area_color=3ddc97&hide_border=true&custom_title=Commit%20Activity%20%7C%20Last%2031%20Days" width="100%" alt="Contribution graph"/> </div>
+Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake.svg"/> <img alt="Contribution snake" src="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake-dark.svg"/> </picture> </div>
+Get in Touch
+<div align="center"> <img src="./assets/bird-float.svg" width="120" alt="Floating bird"/>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 EduAI Chatbot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/AI_API-FF6F00?style=flat-square" />
-      </p>
-      <p>An intelligent tutor that breaks down difficult technical concepts into structured, bite-sized lessons in real time.</p>
-      <ul>
-        <li>Interactive conversational UI built with React</li>
-        <li>Java + Spring Boot REST backend</li>
-        <li>Prompt engineering for simplified, level-aware explanations</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/SHAMYUKTHAM/Eduai-chatbot"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ CloudForge AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Architecture-0052CC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      </p>
-      <p>An AI developer copilot that turns abstract requirements into architecture blueprints, DB schemas and deployment paths.</p>
-      <ul>
-        <li>Automated entity and endpoint scaffolding</li>
-        <li>Cloud deployment and infrastructure recommendations</li>
-        <li>Built for rapid prototyping and architecture mapping</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Active_Development-3ddc97?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Alumni Portal</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>A networking hub connecting students and graduates for industry updates, mentorship requests and career opportunities.</p>
-      <ul>
-        <li>Relational data modelling and querying with MySQL</li>
-        <li>Dynamic feed and searchable alumni directory</li>
-        <li>Mobile-first responsive design</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/SHAMYUKTHAM/Alumni-Portal"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Gamified Learning</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/UI%2FUX-EA4C89?style=flat-square" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/EdTech-4CAF50?style=flat-square" />
-      </p>
-      <p>A product-design study of how gamification improves retention and course completion in online education.</p>
-      <ul>
-        <li>High-fidelity Figma prototypes and design system</li>
-        <li>Leaderboards, achievement badges and reward loops</li>
-        <li>Accessible user flows and micro-interactions</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/SHAMYUKTHAM/gamified-learning-platform"><b>View Prototype →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAMYUKTHAM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMYUKTHAM&layout=compact&hide_border=true&bg_color=0d1117&title_color=3ddc97&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SHAMYUKTHAM&hide_border=true&background=0d1117&ring=3ddc97&fire=3ddc97&currStreakLabel=3ddc97&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-**Commit activity over the last 31 days**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAMYUKTHAM&bg_color=0d1117&color=3ddc97&line=3ddc97&point=ffffff&area=true&area_color=3ddc97&hide_border=true&title_color=3ddc97" width="100%" alt="Contribution graph" />
-
-<br/>
-
-**The snake eats my contributions 🐍**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SHAMYUKTHAM/SHAMYUKTHAM/output/github-snake.svg" />
-</picture>
+<b>Open to full-stack and cloud engineering roles.</b><br/> Have a project or an opportunity in mind? Pick a channel below.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAMYUKTHAM&theme=github_dark" width="100%" alt="Profile summary" />
+<a href="https://www.linkedin.com/in/shamyuktha-m"><img src="./assets/card-linkedin.svg" alt="LinkedIn"/></a> <a href="mailto:shamyuktham6006@gmail.com"><img src="./assets/card-email.svg" alt="Email"/></a> <br/> <a href="https://github.com/SHAMYUKTHAM"><img src="./assets/card-github.svg" alt="GitHub"/></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHAMYUKTHAM&theme=github_dark" width="32%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHAMYUKTHAM&theme=github_dark" width="32%" alt="Most commit language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHAMYUKTHAM&theme=github_dark" width="32%" alt="Stats" />
-
-<br/>
-
-<img src="https://github-readme-trophy-api.vercel.app/?username=SHAMYUKTHAM&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="100%" alt="Trophies" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-Whether you want to talk full-stack engineering, collaborate on an open-source tool, or explore opportunities, my inbox is always open.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamyuktha-m)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAMYUKTHAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamyuktham6006@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f17,100:3ddc97&height=110&section=footer" width="100%" alt="footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3ddc97&height=90&section=footer" width="100%" alt="footer"/> </div>
